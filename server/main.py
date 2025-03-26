@@ -4,9 +4,10 @@ from flask_bcrypt import Bcrypt
 from flask_jwt_extended import JWTManager, create_access_token, jwt_required, get_jwt_identity
 import google.generativeai as genai
 import os
-from flask_cors import CORS, cross_origin
+from flask_cors import CORS
 from datetime import datetime, timedelta
-from bson import ObjectId
+from pymongo import MongoClient
+from bson.objectid import ObjectId
 import json
 from dotenv import load_dotenv
 

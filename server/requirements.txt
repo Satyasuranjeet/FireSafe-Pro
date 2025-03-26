@@ -1,10 +1,9 @@
-Flask
+flask
 flask-pymongo
+pymongo
 flask-bcrypt
 flask-jwt-extended
-google-generativeai
 flask-cors
 python-dotenv
-pymongo
-bson
-    
+google-generativeai
+gunicorn
