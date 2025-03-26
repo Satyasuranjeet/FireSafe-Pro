@@ -4,7 +4,7 @@ import axios from 'axios';
 import { Toaster, toast } from 'react-hot-toast';
 
 // Configure axios defaults
-axios.defaults.baseURL = 'http://127.0.0.1:5000';
+axios.defaults.baseURL = 'https://firesafe-pro.onrender.com';
 axios.interceptors.request.use((config) => {
   const token = localStorage.getItem('token');
   if (token) {
