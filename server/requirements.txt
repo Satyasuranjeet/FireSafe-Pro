@@ -1,0 +1,10 @@
+Flask
+flask-pymongo
+flask-bcrypt
+flask-jwt-extended
+google-generativeai
+flask-cors
+python-dotenv
+pymongo
+bson
+    
