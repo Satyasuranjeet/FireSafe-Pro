@@ -17,7 +17,7 @@ The Fire Safety Training Platform is an innovative solution designed to enhance 
 - Interactive Learning Materials
 - Multimedia MCQ Assignments
 - AI-Powered Chat Assistant
-- Upcoming Fire Safety Simulations
+-Fire Safety Simulations
 
 ### For Administrators
 - Content Management
@@ -33,8 +33,8 @@ The Fire Safety Training Platform is an innovative solution designed to enhance 
   - Content Generation Service
   - Chat Assistant Service
   - Authentication Service
-  - Simulation Service (Future)
-  - Reporting Service (Future)
+  - Simulation Service
+  - Reporting Service 
 - **Data Storage:** MongoDB Database
 
 ## 🚀 Technology Stack
